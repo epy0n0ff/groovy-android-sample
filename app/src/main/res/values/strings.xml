@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GroovyAndroid</string>
+    <string name="label_next_btn">Next</string>
 </resources>
